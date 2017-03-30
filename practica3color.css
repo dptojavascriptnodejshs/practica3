@@ -8,6 +8,14 @@ body {
   width: 100%;
   overflow: hidden;
   padding: 16px;
-  background-color: yellowgreen;
+  background-color: greenyellow;
+  margin-bottom: 16px;
+}
+
+.parrafos2 {
+  width: 100%;
+  overflow: hidden;
+  padding: 16px;
+  background-color: lightcoral;
   margin-bottom: 16px;
 }
