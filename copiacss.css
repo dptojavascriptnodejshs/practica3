@@ -1,0 +1,21 @@
+
+body {
+  background-color: #F1F1F1  ;
+  margin: 0;
+  }
+
+.parrafos {
+  width: 100%;
+  overflow: hidden;
+  padding: 16px;
+  background-color: yellowgreen;
+  margin-bottom: 16px;
+}
+
+#seccion_yuli{
+
+	background-color: pink;
+	width: 100%;
+	text-align: center;
+	font-size: 25px;
+}
