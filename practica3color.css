@@ -11,3 +11,11 @@ body {
   background-color: yellowgreen;
   margin-bottom: 16px;
 }
+
+#seccion_yuli{
+
+	background-color: pink;
+	width: 100%;
+	text-align: center;
+	font-size: 25px;
+}
