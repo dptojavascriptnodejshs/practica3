@@ -1,0 +1,41 @@
+commit dbeccc7b1c01ba1a0e6dc0eb57a5259d787e4639
+Author: jilanjian <jessica.ilanjian@gmail.com>
+Date:   Mon Apr 3 14:46:43 2017 -0400
+
+    subiendo loquesea.txt para yuli
+
+commit e16ac586c2786536e36f46a164de4303c8dfc4f6
+Author: Yuli Blanco <blancoyule@gmail.com>
+Date:   Mon Apr 3 14:27:04 2017 -0400
+
+    pruebas de ramas
+
+commit 830004ace763ba3cbcbb6c62937e3ffe4a2bb570
+Author: Yuli Blanco <blancoyule@gmail.com>
+Date:   Sun Apr 2 17:14:42 2017 -0400
+
+    copia css
+
+commit c725250ec78a33aed77a0cd3bbf05d7be7fdd04f
+Author: Yuli Blanco <blancoyule@gmail.com>
+Date:   Sun Apr 2 16:34:45 2017 -0400
+
+    agregando las modificaciones al proyecto de Jessica
+
+commit af501f3c5ef7049128f752f9fe4e91117b4118a6
+Author: Yuli Blanco <blancoyule@gmail.com>
+Date:   Fri Mar 31 14:07:15 2017 -0400
+
+    agregando html
+
+commit 080d8831d11e204475ff5018182eae655377baaa
+Author: jilanjian <jessica.ilanjian@gmail.com>
+Date:   Thu Mar 30 14:37:23 2017 -0400
+
+    AGREGAMOS ARTICULO Y ARCHIVO CSS
+
+commit d2334a474850390fe5690c72064f8a73e1beb469
+Author: CASU DELL <CASU DELL>
+Date:   Thu Mar 30 09:47:34 2017 -0400
+
+    CREANDO MI PRIMER COMMIT
