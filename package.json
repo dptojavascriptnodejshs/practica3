@@ -1,0 +1,22 @@
+{
+  "name": "marvel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuli",
+  "license": "Unlicense",
+  "devDependencies": {
+    "gulp-clean-css": "^3.0.4",
+    "gulp-jade": "^1.1.0",
+    "gulp-stylus": "^2.6.0",
+    "gulp-watch": "^4.3.11",
+    "jade": "^1.11.0"
+  },
+  "dependencies": {
+    "gulp-minify-css": "^1.2.4",
+    "jquery": "^3.2.1"
+  }
+}
